@@ -1,0 +1,9 @@
+.pfloat {
+    float: left;
+    width: 400px;
+    border: 2px solid lightcoral;
+}
+p{
+	border: 1px solid #84b0f8;
+	  padding: 10px;
+}
